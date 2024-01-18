@@ -1,0 +1,8 @@
+{
+    "use_proxies": false,
+    "proxy_type": "http",
+    "captcha": {
+        "type": "capmonster",
+        "key": "YOUR_CAPMONSTER_KEY"
+    }
+}
